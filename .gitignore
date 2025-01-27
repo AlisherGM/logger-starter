@@ -1,0 +1,33 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+log/settings.log
+log/settings-service.log
+log/settings-service
+log/settings-service-business.log
+log/settings-service-business
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+application-test-dev.yml
