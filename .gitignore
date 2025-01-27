@@ -31,3 +31,8 @@ log/settings-service-business
 /.nb-gradle/
 /build/
 application-test-dev.yml
+
+### Others ###
+.gitignore
+.gitlab-ci.yml
+ci_settings.xml
